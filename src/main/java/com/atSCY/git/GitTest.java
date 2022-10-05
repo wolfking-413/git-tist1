@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("gitee test");
         System.out.println("gitee pull test2");
+        System.out.println("gitee pull test2 第二天早上");
     }
 }
